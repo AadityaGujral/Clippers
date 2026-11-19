@@ -1,0 +1,2 @@
+# Baseline uses Python standard library and an external FFmpeg executable.
+# Optional dependencies will be pinned when their corresponding features are implemented.
